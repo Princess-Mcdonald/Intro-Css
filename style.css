@@ -1,0 +1,27 @@
+nav{
+    background:linear-gradient(to right, #a6ec47, #69ca19) ;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul li{
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 20px;
+    padding: 5px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    
+}
+
+nav ul li:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
+.btn1{
+    background-color: white;
+    color: red;
+    padding: 0px 10px;
+
+}
